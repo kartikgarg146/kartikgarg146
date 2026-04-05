@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:7f5af0,50:a78bfa,100:c4b5fd&text=Kartik%20Garg&fontAlign=50&fontAlignY=38&fontSize=60&desc=Full%20Stack%20Developer%20|%20DSA%20Enthusiast%20|%20Web%20Developer&descAlignY=62"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:2c5364,100:00c6ff&text=Kartik%20Garg&fontAlign=50&fontAlignY=38&fontSize=60&desc=Full%20Stack%20Developer%20|%20DSA%20Enthusiast%20|%20Web%20Developer&descAlignY=62"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&color=A78BFA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Web+Projects;DSA+Enthusiast;Learning+and+Growing+Everyday"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&color=00C6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Web+Projects;DSA+Enthusiast;Learning+and+Growing+Everyday"/>
 
-<img src="https://komarev.com/ghpvc/?username=kartikgarg146&label=Profile%20Views&color=7f5af0&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=kartikgarg146&label=Profile%20Views&color=00c6ff&style=for-the-badge"/>
 
 </div>
 
