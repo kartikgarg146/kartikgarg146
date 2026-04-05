@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:2c5364,100:00c6ff&text=Kartik%20Garg&fontAlign=50&fontAlignY=38&fontSize=60&desc=Full%20Stack%20Developer%20|%20DSA%20Enthusiast%20|%20Web%20Developer&descAlignY=62"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4f46e5,50:7c3aed,100:ec4899&text=Kartik%20Garg&fontAlign=50&fontAlignY=38&fontSize=60&desc=Full%20Stack%20Developer%20|%20DSA%20Enthusiast%20|%20Web%20Developer&descAlignY=62"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&color=00C6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Web+Projects;DSA+Enthusiast;Learning+and+Growing+Everyday"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&color=7C3AED&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Web+Projects;DSA+Enthusiast;Learning+and+Growing+Everyday"/>
 
-<img src="https://komarev.com/ghpvc/?username=kartikgarg146&label=Profile%20Views&color=00c6ff&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=kartikgarg146&label=Profile%20Views&color=7c3aed&style=for-the-badge"/>
 
 </div>
 
@@ -103,18 +103,8 @@ Currently focusing on:
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/kartikgarg146/kartikgarg146/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c4b5fd,100:7f5af0&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:ec4899&height=120&section=footer"/>
 
 </div>
