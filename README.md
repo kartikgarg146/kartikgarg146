@@ -50,11 +50,12 @@ Currently focusing on:
 
 ## 🚀 Featured Projects
 
-| Project | Description | Link |
-|------|-------------|------|
-| 🚧 Coming Soon | Awesome projects are on the way | GitHub |
-| 🚧 Coming Soon | Building cool full stack apps | GitHub |
-| 🚧 Coming Soon | More updates soon | GitHub |
+| Project | Description | 
+|------|-------------|
+| 📂 Dropico | Secure file-sharing platform with real-time upload, storage, and access control | 
+| 🚌 Sadda Safar | GPS-based real-time bus tracking system with route prediction and live updates | 
+| 📚 Libronexa | Smart library management system with automated cataloging and user tracking |
+| 🌿 Well Spring | AI-powered mental health tracker with mood analytics and chatbot |
 
 ---
 
