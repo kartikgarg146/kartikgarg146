@@ -63,7 +63,7 @@ Currently focusing on:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,git,github"/>
+<img src="https://skillicons.dev/icons?i=python,html,css,cpp,javascript,react,nodejs,express,git,github"/>
 
 </p>
 
