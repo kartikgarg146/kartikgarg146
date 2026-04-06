@@ -55,7 +55,6 @@ Currently focusing on:
 | 📂 Dropico | Secure file-sharing platform with real-time upload, storage, and access control | Github |
 | 🚌 Sadda Safar | GPS-based real-time bus tracking system with route prediction and live updates | Github |
 | 📚 Libronexa | Smart library management system with automated cataloging and user tracking | Github |
-| 🌿 Well Spring | AI-powered mental health tracker with mood analytics and chatbot | Github |
 
 ---
 
