@@ -55,6 +55,7 @@ Currently focusing on:
 | 📂 Dropico | Secure file-sharing platform with real-time upload, storage, and access control | [Github](https://github.com/kartikgarg146/Dropico-File-Sharing-Platform) |
 | 🚌 Sadda Safar | GPS-based real-time bus tracking system with route prediction and live updates | [Github](https://github.com/kartikgarg146/Sadda_Safar-Real-Time-Bus-Tracking-System) |
 | 📚 Libronexa | Smart library management system with automated cataloging and user tracking | [Github](https://github.com/kartikgarg146/Libronexa-Smart-Library-Management-Platform) |
+| 🌿 WellSpring | A mental health platform with AI chatbot for support and mood tracking | [Github](https://github.com/kartikgarg146/Mental-Health-Chatbot) |
 
 ## 🛠 Tech Stack
 
