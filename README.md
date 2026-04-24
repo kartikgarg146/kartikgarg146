@@ -56,7 +56,6 @@ Currently focusing on:
 | 🌍 AI Travel Planner | AI-powered trip planner — chat to generate itineraries, hotel picks & budget plans | [Live Demo](https://ai-travel-planner-kartik.streamlit.app) |
 | 📚 Libronexa | Smart library management system with automated cataloging and user tracking | [Github](https://github.com/kartikgarg146/Libronexa-Smart-Library-Management-Platform) |
 | 🚌 Sadda Safar | GPS-based real-time bus tracking system with route prediction and live updates | [Github](https://github.com/kartikgarg146/Sadda_Safar-Real-Time-Bus-Tracking-System) |
-| 📂 Dropico | Secure file-sharing platform with real-time upload, storage, and access control | [Github](https://github.com/kartikgarg146/Dropico-File-Sharing-Platform) |
 
 
 ## 🛠 Tech Stack
