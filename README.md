@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 B.Tech – **Artificial Intelligence & Machine Learning**  
+🎓 B.Tech – **Artificial Intelligence & Machine Learning - NIET(2027)**  
 
 I enjoy building **web applications and solving problems using DSA.**
 
