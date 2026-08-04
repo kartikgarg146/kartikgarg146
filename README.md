@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4f46e5,50:7c3aed,100:ec4899&text=Kartik%20Garg&fontAlign=50&fontAlignY=38&fontSize=60&desc=Full%20Stack%20Developer%20|%20DSA%20Enthusiast%20|%20Web%20Developer&descAlignY=62"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4f46e5,50:7c3aed,100:ec4899&text=Kartik%20Garg&fontAlign=50&fontAlignY=38&fontSize=60&desc=Full%20Stack%20Developer%20|%20AI%20%26%20ML%20Student%20|%20DSA%20Enthusiast&descAlignY=62"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&color=7C3AED&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Web+Projects;DSA+Enthusiast;Learning+and+Growing+Everyday"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=7C3AED&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+%26+ML+Student;Building+Scalable+Web+Applications;React+%7C+Spring+Boot+%7C+Django;Data+Structures+%26+Algorithms;Always+Learning+New+Technologies"/>
 
 <img src="https://komarev.com/ghpvc/?username=kartikgarg146&label=Profile%20Views&color=7c3aed&style=for-the-badge"/>
 
@@ -10,95 +10,145 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-🎓 B.Tech – **Artificial Intelligence & Machine Learning - NIET(2027)**  
+🎓 **B.Tech - Artificial Intelligence & Machine Learning**  
+📍 Noida Institute of Engineering & Technology (NIET) | Batch of 2027
 
-I enjoy building **web applications and solving problems using DSA.**
+I am a passionate Computer Science student who enjoys building scalable web applications and solving Data Structures & Algorithms problems. I love transforming ideas into practical software solutions while continuously learning modern technologies.
 
-Currently focusing on:
+### 🌱 Currently Learning
 
-- Web Development  
-- Full Stack Development  
-- Data Structures & Algorithms  
+- Spring Boot
+- Django
+- PostgreSQL
+- Advanced React
+- Data Structures & Algorithms
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://my-portfolio-one-kartik-146.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/kartikgarg146">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:gargkartik623@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/kartikgarg146">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-| Project | Description | Link |
-|------|-------------|------|
-| 🌿 WellSpring | A mental health platform with an AI chatbot for support and mood tracking | [Live Demo](https://webswellspring.netlify.app/) |
-| 🌍 AI Travel Planner | AI-powered trip planner — chat to generate itineraries, hotel picks & budget plans | [Live Demo](https://ai-travel-planner-kartik.streamlit.app) |
-| 📚 Libronexa | Smart library management system with automated cataloging and user tracking | [Github](https://github.com/kartikgarg146/Libronexa-Smart-Library-Management-Platform) |
-| 🚌 Sadda Safar | GPS-based real-time bus tracking system with route prediction and live updates | [Github](https://github.com/kartikgarg146/Sadda_Safar-Real-Time-Bus-Tracking-System) |
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🌿 **WellSpring** | AI-powered mental health platform with chatbot, mood tracking and wellness resources. | React, Node.js, Express, MongoDB |
+| 🌍 **AI Travel Planner** | AI-based trip planner that generates itineraries, hotel recommendations and budget plans. | Python, Streamlit, Gemini API |
+| 📚 **Libronexa** | Smart library management platform with catalog management and user tracking. | Django, SQLite, HTML, CSS |
+| 🚌 **Sadda Safar** | Real-time GPS-based bus tracking system with live location and route prediction. | React, Firebase |
 
+---
 
-## 🛠 Tech Stack
+# 💻 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,html,css,cpp,javascript,react,nodejs,express,git,github"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css,react,nodejs,express,django,spring,postgresql,mysql,mongodb,git,github,vscode"/>
 
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 💡 Skills
+
+- Full Stack Development
+- Frontend Development
+- Backend Development
+- REST API Development
+- Database Design
+- Object-Oriented Programming
+- Problem Solving
+- Data Structures & Algorithms
+- AI Integration
+
+---
+
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kartikgarg146&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img height="170" src="https://streak-stats.demolab.com?user=kartikgarg146&theme=tokyonight&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikgarg146&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=kartikgarg146&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
+
 </p>
 
 ---
 
-## 📈 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikgarg146&theme=tokyo-night"/>
-
----
-
-## 🧠 LeetCode Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/kartikgarg146?theme=dark&font=baloo"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kartikgarg146&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikgarg146&theme=tokyonight&hide_border=true"/>
 
 </p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikgarg146&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikgarg146&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🧠 LeetCode Stats
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/kartikgarg146?theme=dark&font=baloo&ext=contest"/>
+
+</p>
+
+---
+
+# 📌 Current Focus
+
+- 🌱 Building Full Stack Projects
+- ⚡ Solving DSA Problems Daily
+- 🤖 Exploring AI-powered Applications
+- 📚 Learning System Design
+- 🚀 Preparing for Software Engineering Roles
 
 ---
 
 <div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**"Code. Learn. Build. Repeat."**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:ec4899&height=120&section=footer"/>
 
