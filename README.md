@@ -8,10 +8,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=kartikgarg146&label=Profile+Views&color=7c3aed&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/kartikgarg146?label=Followers&style=for-the-badge&color=7c3aed&logo=github"/>
-
-<img src="https://img.shields.io/github/stars/kartikgarg146?affiliations=OWNER&style=for-the-badge&color=ec4899&logo=github"/>
-
 </div>
 
 ---
