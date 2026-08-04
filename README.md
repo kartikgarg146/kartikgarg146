@@ -1,16 +1,8 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:4f46e5,50:7c3aed,100:ec4899&text=Kartik%20Garg&fontAlign=50&fontAlignY=36&fontSize=62&fontColor=ffffff&desc=Full%20Stack%20Developer%20|%20AI%20%26%20ML%20Student%20|%20DSA%20Enthusiast&descAlignY=60&descSize=20&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=👋+Welcome+to+My+GitHub!;Full+Stack+Developer;AI+%26+ML+Student;Building+Scalable+Web+Applications;React+%7C+Spring+Boot+%7C+Django;Data+Structures+%26+Algorithms;Always+Learning+New+Technologies"/>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=kartikgarg146&label=Profile+Views&color=7c3aed&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/kartikgarg146?label=Followers&style=for-the-badge&color=7c3aed&logo=github"/>
-
-<img src="https://img.shields.io/github/stars/kartikgarg146?affiliations=OWNER&style=for-the-badge&color=ec4899&logo=github"/>
+<div align="center"> 
+  
+<img src="https://capsule-render.vercel.app/api type=waving&height=260&color=0:4f46e5,50:7c3aed,100:ec4899&text=Kartik%20Garg&fontAlign=50&fontAlignY=38&fontSize=60&desc=Full%20Stack%20Developer%20|%20DSA%20Enthusiast%20|%20Web%20Developer&descAlignY=62"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&color=7C3AED&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Web+Projects;DSA+Enthusiast;Learning+and+Growing+Everyday"/> 
+<img src="https://komarev.com/ghpvc/?username=kartikgarg146&label=Profile%20Views&color=7c3aed&style=for-the-badge"/> 
 
 </div>
 
