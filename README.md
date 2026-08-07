@@ -1,15 +1,13 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,30&text=Kartik%20Garg&fontAlign=50&fontAlignY=38&fontSize=60&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Student%20%7C%20DSA%20Enthusiast&descAlignY=62&descSize=18" />
-
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:ec4899&height=220&section=header&text=Kartik%20Garg&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35) 
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;AI+%26+ML+Student;Building+Scalable+Web+Applications;React+%7C+Spring+Boot+%7C+Django;Data+Structures+%26+Algorithms;Always+Learning+New+Technologies" />
+</p>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?
-username=kartikgarg146&label=Profile+Views&color=7c3aed&style=for-the-badge" />
-
-</div>
+<p align="center"> 
+  
+  <img src="https://komarev.com/ghpvc/?username=kartikgarg146&label=Profile+Views&color=7c3aed&style=for-the-badge" /> 
+  
+</p>
 
 ---
 
