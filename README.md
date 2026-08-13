@@ -14,7 +14,6 @@ I am a passionate Computer Science student who enjoys building scalable web appl
 - Spring Boot
 - Django
 - PostgreSQL
-- Advanced React
 - Data Structures & Algorithms
 
 ---
@@ -47,7 +46,7 @@ I am a passionate Computer Science student who enjoys building scalable web appl
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🌿 **WellSpring** | AI-powered mental health platform with chatbot, mood tracking and wellness resources. | React, Node.js, Express, MongoDB |
+| 🌿 **WellSpring** | AI-powered mental health platform having chatbot, mood tracking and wellness resources. | React, Node.js, Express, MongoDB |
 | 🌍 **AI Travel Planner** | AI-based trip planner that generates itineraries, hotel recommendations and budget plans. | Python, Streamlit, Gemini API |
 | 📚 **Libronexa** | Smart library management platform with catalog management and user tracking. | Django, SQLite, HTML, CSS |
 | 🚌 **Sadda Safar** | Real-time GPS-based bus tracking system with live location and route prediction. | React, Firebase |
